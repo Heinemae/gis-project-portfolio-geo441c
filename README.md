@@ -17,4 +17,4 @@ Allison Heineman
 
 - ## Web Mapping
 - This [comparison map]() showcases the difference in land surface temperature in Palm Springs, CA
-- Here is a [web map collection](https://arcg.is/1zO01v1) showcasing all the web-mapping work I did
+- Here is a [web map collection](https://storymaps.arcgis.com/collections/b2fb7339048444eaa14620ca4c7f6a94) showcasing all the web-mapping work I did
