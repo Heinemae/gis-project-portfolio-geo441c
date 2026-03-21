@@ -14,3 +14,7 @@ Allison Heineman
 ## Map Coordinate Basics
 
 - [Understanding map coordinates](https://github.com/Heinemae/gis-project-portfolio-geo441c/blob/main/map-coordinate-basics/understanding-coordinates.ipynb)
+
+- ## Web Mapping
+- This [comparison map]() showcases the difference in land surface temperature in Palm Springs, CA
+- Here is a [web map collection](https://arcg.is/1zO01v1) showcasing all the web-mapping work I did
