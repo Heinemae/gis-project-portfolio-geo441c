@@ -11,6 +11,9 @@ Allison Heineman
 - [First map in ArcGIS Pro](https://github.com/Heinemae/gis-project-portfolio-geo441c/blob/main/basic-mapping/week-1-mapping.ipynb)
 - [Multiple map frames in one map layout](https://github.com/Heinemae/gis-project-portfolio-geo441c/blob/main/basic-mapping/week-2-mapping.ipynb)
 
+## Learning to use GitHub
+- To learn how to use GitHub, I followed [these steps](https://github.com/Heinemae/gis-project-portfolio-geo441c/blob/main/learning-to-use-github/create_project_portfolio_in_github.ipynb)
+
 ## Map Coordinate Basics
 
 - [Understanding map coordinates](https://github.com/Heinemae/gis-project-portfolio-geo441c/blob/main/map-coordinate-basics/understanding-coordinates.ipynb)
