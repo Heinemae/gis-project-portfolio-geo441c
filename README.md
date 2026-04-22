@@ -22,3 +22,5 @@ Allison Heineman
 - Here is a [spatial analysis map](https://github.com/Heinemae/gis-project-portfolio-geo441c/blob/main/spatial_analysis_for_vector_data/mapping_cholera_outbreak.ipynb) that shows deaths from cholera in 1854, Soho district, London
 ## Spatial Analysis for Raster Data
 - Here is another [spatial analysis map](https://github.com/Heinemae/gis-project-portfolio-geo441c/blob/main/spatial-analysis-raster-data/mapping_2017_thomas_fire.ipynb) that shows raster data from the 2017 Thomas Fire in California
+## Using Vector Data
+- These maps showing how I learned to [use vector data](https://github.com/Heinemae/gis-project-portfolio-geo441c/blob/main/using-vector-data/query_spatial_data_for_new_insights.ipynb) to turn queried datasets into meaningful maps
