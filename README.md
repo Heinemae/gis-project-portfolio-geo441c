@@ -27,3 +27,8 @@ Allison Heineman
 - Here is another [spatial analysis map](https://github.com/Heinemae/gis-project-portfolio-geo441c/blob/main/spatial-analysis-raster-data/mapping_2017_thomas_fire.ipynb) that shows raster data from the 2017 Thomas Fire in California
 ## Using Vector Data
 - These maps showing how I learned to [use vector data](https://github.com/Heinemae/gis-project-portfolio-geo441c/blob/main/using-vector-data/query_spatial_data_for_new_insights.ipynb) to turn queried datasets into meaningful maps
+## Final Project
+-Proposal Slides: [https://docs.google.com/presentation/d/1ae625Shg92b643Vyd0MI2P2NrpqI_XTrllx6DFollvw/edit?usp=sharing]  
+- StoryMap Final Report: [https://storymaps.arcgis.com/stories/c24fcc15ace648b4bf271afc7da5db67]
+
+This project explores the relationship between flooding frequency and social vulnerability in Miami-Dade County, Florida. Using SSURGO flooding data and the CDC/ATSDR Social Vulnerability Index, I conducted a spatial overlay analysis to identify areas where environmental and social risks intersect.
